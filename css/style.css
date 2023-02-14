@@ -378,7 +378,7 @@ form .send-btn:hover {
     padding: 25px 3%;
   }
   section {
-    padding: 50px 3%;
+    padding: 50px 8%;
   }
   :root {
     --big-font: 4rem;
@@ -397,7 +397,7 @@ form .send-btn:hover {
   }
 
   .about{
-    margin-top: 50px;
+    margin-top: 120px;
   }
 }
 @media (max-width: 830px) {
@@ -430,7 +430,7 @@ form .send-btn:hover {
     top: 100%;
   }
   .about{
-    margin-top: 50px;
+    margin-top: 80px;
   }
 .about-text h3{
   margin-top: 50px;
@@ -454,6 +454,7 @@ form .send-btn:hover {
     max-width: 100%;
     width: 490px;
     height: auto;
+    
   }
   .about {
     grid-template-columns: 2fr;
@@ -468,6 +469,7 @@ form .send-btn:hover {
   }
   .about-img img{
     order: 2;
-    width: 300px;
+    width: 380px;
+    margin-top: 450px;
   }
 }
