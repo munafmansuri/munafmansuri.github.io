@@ -242,6 +242,15 @@ section {
   color: var(--text-color);
 }
 
+/* .row a{
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-bottom: 20px;
+  color: var(--text-color);
+  padding: 5px;
+} */
+
 .row p {
   font-size: 18px;
   color: var(--2d-main-color);
